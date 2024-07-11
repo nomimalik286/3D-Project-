@@ -22,8 +22,8 @@ public class Mover : MonoBehaviour
     }
    void FollowInstruction()
     {
-        Debug.Log("hey i Win");
-        Debug.Log("no you  not win");
+       // Debug.Log("hey i Win");
+       // Debug.Log("no you  not win");
 
     }
    void Movement()
